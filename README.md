@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Estelle Ma 👋
+Humanities‑background AI builder｜Social innovation & product adoption｜Electronics hobbyist
+Focus on gender bias in AI ecosystem. From user to builder, empowering more women in AI.
 
-## 🚩 Hackathon Prototype Projects（I served as Team Leader）
-- **此在 / Current｜She Shapes AI Demo Day Prototype**
-> 基于AI与真实到访反馈的情绪‑空间匹配平台，短期黑客松产出，产品原型
-> 👥 Team
-> - Team Leader：estelle‑ma
-> - Core Members：Jue Chen, Camille Yu, PuffyFish Yang
-> [Forked Demo Repository](https://github.com/estelle-ma/ssai-current)
+🌏 [中文版 / Chinese Version](README.zh‑CN.md)
 
-- **Wildgogogo｜She Nicest Hackathon Prototype**
-> 短期黑客松产出，产品原型
-> 👥 Team
-> - Team Leader：Estelle Ma
-> - Core Members：Chenyi Nie, Mona Li, Hangning Liu
-> [Forked Demo Repository](https://github.com/estelle-ma/wildgogogo)
+## 🚀 Hackathon Prototypes
+> All prototypes built within a few days for demo day, ongoing iteration.
+
+### Wildgogogo
+**Team Leader**｜She Nicest Hackathon Demo Prototype
+- Repository：https://github.com/estelle-ma/wildgogogo
+- Brief：A product prototype built for the She Nicest hackathon.
+
+### 此在 (SSAI‑Current)
+**Team Leader**｜She Shapes AI Demo Day Prototype
+- Repository：https://github.com/estelle-ma/ssai-current
+- Brief：Demo‑day prototype from She Shapes AI, will keep iterating.
+
+## 💡 Upcoming Projects
+Small hands‑on electronics hardware experiments coming soon.
+
+## 📬 Connect with me
+- Twitter：EstelleMa4
+- LinkedIn：yayuanma
