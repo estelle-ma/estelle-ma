@@ -14,7 +14,7 @@
 
 ### 此在（SSAI‑Current）
 **团队负责人｜She Shapes AI Demo Day作品**
-- 仓库地址：https://github.com/estelle-ma/ssai-current
+- 仓库地址：https://github.com/Juliejue/ssai-current
 - 简介：She Shapes AI Demo Day参赛原型，仍在持续修改完善
 
 ## 💡 后续计划
