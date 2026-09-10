@@ -14,7 +14,7 @@ Focus on gender bias in AI ecosystem. From user to builder, empowering more wome
 
 ### 此在 (SSAI‑Current)
 **Team Leader**｜She Shapes AI Demo Day Prototype
-- Repository：https://github.com/estelle-ma/ssai-current
+- Repository：https://github.com/Juliejue/ssai-current
 - Brief：Demo‑day prototype from She Shapes AI, will keep iterating.
 
 ## 💡 Upcoming Projects
